@@ -17,7 +17,7 @@ To use this project, Go must be installed on your computer. You can download and
 
 Clone the project to your local machine using the following Git command:
 
-•	git clone https://github.com/yourusername/projectname.git
+•	git clone https://github.com/TolgaTD/Port-Scanner-with-Go.git
 
 •	cd projectname
 
