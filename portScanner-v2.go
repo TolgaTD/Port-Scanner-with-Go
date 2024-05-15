@@ -69,7 +69,7 @@ var commonServices = map[int]string{
 func main() {
 	clearConsole()
 
-	// ASCII sanatını oluştur
+	// ASCII 
 	asciiArt := `
 	_______ __   __ _______  ______  _____  __   _ _____ ______ _______       
 	|______   \_/   |       |_____/ |     | | \  |   |    ____/ |______ |     
@@ -77,10 +77,10 @@ func main() {
 																			  
    `
 
-	// ASCII sanatını yazdır
+	
 	fmt.Println(asciiArt, "\n\n")
 
-	// Başlangıç animasyonu
+
 	animation := []string{"\\", "|", "/", "-"}
 	for i := 0; i < 10; i++ {
 		for _, frame := range animation {
