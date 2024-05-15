@@ -16,12 +16,16 @@ Installation
 To use this project, Go must be installed on your computer. You can download and install the latest version of Go from Go's official website.
 
 Clone the project to your local machine using the following Git command:
+
 •	git clone https://github.com/yourusername/projectname.git
+
 •	cd projectname
 
 Usage
 To run the program, enter the following command in your terminal:
+
 •	go run main.go
+
 After running the program, follow the on-screen prompts to specify the target address and scanning options.
 
 
